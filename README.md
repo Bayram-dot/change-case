@@ -1,4 +1,5 @@
 # Change Case
+Adding some stuffs
 
 [![Build status](https://img.shields.io/travis/blakeembrey/change-case.svg?style=flat)](https://travis-ci.com/blakeembrey/change-case)
 
